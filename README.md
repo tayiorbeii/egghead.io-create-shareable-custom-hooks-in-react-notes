@@ -11,11 +11,11 @@ In this self-paced workshop, you'll work through refactoring a component to use 
 Follow the React Team's lead, and make your code more readable, reusable, and reasonable!
 
 ## Lessons
-01 Change a stateful react class component to a function component with the state hook
-02 Use the react effect hook in function components
-03 Wite a custom state hook in react
-04 Write a custom react effect hook
-05 Extract a custom hook into it s own module with create react hook
-06 Test your custom hook module with react hooks testing library
-07 Prepare a custom react hook to be published as an npm package
-08 Publish a custom react hook as an npm package
+01. Change a stateful react class component to a function component with the state hook
+02. Use the react effect hook in function components
+03. Wite a custom state hook in react
+04. Write a custom react effect hook
+05. Extract a custom hook into it s own module with create react hook
+06. Test your custom hook module with react hooks testing library
+07. Prepare a custom react hook to be published as an npm package
+08. Publish a custom react hook as an npm package
